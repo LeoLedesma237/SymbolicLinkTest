@@ -1,1 +1,1 @@
-SharePoint1
+find . -type l >> .gitignore
